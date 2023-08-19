@@ -3,8 +3,8 @@ import random
 # Define the game's constants.
 NUM_PLAYERS = 1
 STARTING_MONEY = 100
-GOODS = ["wheat", "corn", "soybean", "Burger"]
-PRICES = {"wheat": 10, "corn": 20, "soybean": 30, "Burger": 25}
+GOODS = ["wheat", "corn", "soybean", "burger"]
+PRICES = {"wheat": 10, "corn": 20, "soybean": 30, "burger": 25}
 
 # Create a class for each type of player.
 class Player:
